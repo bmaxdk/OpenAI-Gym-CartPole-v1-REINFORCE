@@ -62,8 +62,8 @@ gym.make('CartPole-v1')
 ## Instructions
 
 * Follow the instructions in [`REINFORCE.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-CartPole-v1-REINFORCE/blob/main/REINFORCE.ipynb) to train and run the agent!
-```
-git clone https://github.com/bmaxdk/OpenAI-Gym-CartPole-v1-REINFORCE.git
-cd OpenAI-Gym-CartPole-v1-REINFORCE
+```bash
+$ git clone https://github.com/bmaxdk/OpenAI-Gym-CartPole-v1-REINFORCE.git
+$ cd OpenAI-Gym-CartPole-v1-REINFORCE
 ```
 Use jupyter notebook to open [`REINFORCE.ipynb`](https://github.com/bmaxdk/OpenAI-Gym-CartPole-v1-REINFORCE/blob/main/REINFORCE.ipynb).
